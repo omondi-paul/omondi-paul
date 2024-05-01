@@ -176,25 +176,11 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![omondi-paul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=omondi-paul&theme=github	)](https://github.com/omondi-paul/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omondi-paul&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="omondi-paul" /></a> </p>
-
-[![@omondi-paul's Holopin board](https://holopin.io/api/user/board?user=omondi-paul)](https://holopin.io/omondi-paul)
-	
-
-	
 
 </br></br>
 
