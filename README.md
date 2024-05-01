@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Omondi Paul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Software+Engineer+@upeosoftltd;Electronic+And+Computer;Engineering+Student;Jomo+Kenyatta+University;Juja+Kenya">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Full+Stack+Developer+@upeosoft.ltd;Electronic+And+Computer;Engineering+Student;Jomo+Kenyatta+University;Juja,+Kenya">
 </a>
 
 </p>
@@ -20,7 +20,7 @@
 
 - :school: I am a `Fifth Year`  [Department of Electrical and Electronics Engineering](https://www.jkuat.ac.ke/departments/eee/) , [JKUAT](https://www.jkuat.ac.ke/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Electronic and Computer Engineering`.
+- :student: Currently taking `Electronic and Computer Engineering`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY PORTFOLIO](https://omondi-paul-portfolio.vercel.app/).
 <br>
