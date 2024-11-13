@@ -39,8 +39,6 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> 
@@ -58,11 +56,6 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
@@ -78,14 +71,6 @@
     <a href="https://nextjs.org/" target="_blank"> 
      <img alt="Nexjs14" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
    </a>
-
- 
-</p>
-
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development
-<p align="center"> 
-  &emsp;
   <a href="https://frappeframework.com/docs/user/en/introduction" target="_blank">
     <img alt="FRAPPE" src="https://img.shields.io/badge/Frappe-%230072C6.svg?style=plastic&logo=frappe&logoColor=white">
   </a> 
@@ -93,14 +78,6 @@
   <a href="https://erpnext.com/" target="_blank">
     <img alt="ERP NEXT" src="https://img.shields.io/badge/ERPNext-%230072C6.svg?style=plastic&logo=erpnext&logoColor=white">
   </a> 
-
-
- 
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -117,27 +94,15 @@
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-</p>
-
-<br> 
-
----
-
-<p align = "center">
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a></p>
+  &emsp;
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
  [![Paul's github stats](https://bad-apple-github-readme.vercel.app/api?username=omondi-paul&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
