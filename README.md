@@ -136,37 +136,17 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
-----	
+ [![Paul's github stats](https://bad-apple-github-readme.vercel.app/api?username=omondi-paul&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=omondi-paul&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omondi-paul&theme=tokyonight_duo" alt="omondi-paul" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-----
-	
-<p align="left">
-    <a href="https://github.com/omondi-paul/github-readme-stats">
-	    <img alt="omondi-paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omondi-paul&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-
-<br/>
-<a href="https://github.com/omondi-paul" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omondi-paul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-</p>
-
-	
+[![Omondi Paul's current streak](https://streak-stats.demolab.com/?user=omondi-paul&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
