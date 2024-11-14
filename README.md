@@ -25,6 +25,9 @@
 - :boom: You can visit [MY PORTFOLIO](https://omondi-paul-portfolio.vercel.app/).
 <br>
 
+[![Omondi Paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omondi-paul&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
