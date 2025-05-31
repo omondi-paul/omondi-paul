@@ -14,7 +14,7 @@
 <br><br>
 
 - :school: I am a `BSc. Electrical and Electronics Engineering` graduate from [Jomo Kenyatta University of Agriculture and Technology (JKUAT)](https://www.jkuat.ac.ke/).
-- :technologist: Currently working as a `Junior Software Developer` at [Upeosoft](https://upeosoft.ltd/), building innovative solutions using the Frappe framework and Next JS technologies.
+- :technologist: Currently working as a `Software Developer` at [Upeosoft](https://upeosoft.ltd/), building innovative solutions using the Frappe framework and Next JS technologies.
 - :computer: Skilled in developing scalable applications.
 - :briefcase: Passionate about solving real-world problems through software, with a focus on clean code, collaboration, and continuous learning.
 - :rocket: Explore my work at [MY PORTFOLIO](https://omondi-paul-portfolio.vercel.app/).
