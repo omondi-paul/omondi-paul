@@ -8,7 +8,7 @@
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omondi-paul&label=Profile%20views&color=ba0bea&style=flat" alt="franfreezy" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br>
